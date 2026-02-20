@@ -7,6 +7,16 @@ Feature A implemented
 Feature B implemented
 
 //i have dog and dockingugly
-له
-اگه ی روز بری سفر
 
+
+
+"It might be clearer to rename utils.js 
+to paymentUtils.js to reflect its purpose. Structuring files this way improves maintainability and makes it easier 
+to locate relevant code when scaling the 
+project."Consider renaming 
+calcTotal() to something more descriptive like calculateTotalAmount for
+ better readability. Also, a brief comment explaining the c
+alculation logic
+ could help future developers understand
+ the code fas
+ter."
